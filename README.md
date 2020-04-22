@@ -7,6 +7,9 @@ The Goal: Like the title suggests, this project involves writing a program that 
 Concepts to keep in mind:
 
 Random
+
 Integer
+
 Print
+
 While Loops
